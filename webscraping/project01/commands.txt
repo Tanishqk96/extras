@@ -1,0 +1,12 @@
+pip install scrapy
+scrapy startproject bookscraper
+cd bookscraper
+scrapy genspider books books.toscrape.com
+scrapy crawl books
+scrapy crawl books -o books.json
+scrapy crawl books -o books.csv
+scrapy shell 'https://books.toscrape.com/'
+// in ipython shell 
+response.css("h3 a::attr(title)").get()
+response.css("p.price_color::text").get()
+response.css("p.instock.availability::text").get().strip()
