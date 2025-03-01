@@ -1,0 +1,7 @@
+ COMMANDS TO MAKE A WEB APP AND GET IT RUNNING 
+mkdir flask_project && cd flask_project
+python3 -m venv venv  
+source venv/bin/activate  # For Mac
+pip install flask
+touch app.py
+to run python app.py
