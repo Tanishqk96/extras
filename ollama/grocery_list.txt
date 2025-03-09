@@ -1,0 +1,29 @@
+Milk  
+Eggs  
+Cheese  
+Butter  
+Chicken  
+Ground Beef  
+Carrots  
+Tomatoes  
+Lettuce  
+Apples  
+Bananas  
+Orange Juice  
+Bread  
+Rice  
+Pasta  
+Cereal  
+Yogurt  
+Potatoes  
+Onions  
+Garlic  
+Salt  
+Pepper  
+Olive Oil  
+Soda  
+Chocolate  
+Cookies  
+Ice Cream  
+Coffee  
+Tea  
